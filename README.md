@@ -1,2 +1,3 @@
 # musicbot
-musicbot for discord just for fun
+musicbot for discord
+click the url to add to your server to try out
